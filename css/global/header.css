@@ -20,7 +20,7 @@
 
 .header-menu a {
   display: inline-block;
-  padding: 16px 0px;
+  padding: 16px 0;
   position: relative;
 }
 
@@ -28,7 +28,7 @@
   content: "";
   display: block;
   height: 2px;
-  width: 0px;
+  width: 0;
   background: var(--cor-0);
   margin-top: 4px;
   transition: 0.3s;

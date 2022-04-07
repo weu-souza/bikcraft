@@ -7,7 +7,7 @@
 .introducao {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 0px 40px;
+  gap: 0 40px;
 }
 
 .introducao-conteudo {
@@ -41,7 +41,7 @@
     gap: 32px;
   }
   .introducao-conteudo {
-    padding-bottom: 0px;
+    padding-bottom: 0;
   }
   .introducao h1 {
     margin-bottom: 16px;
